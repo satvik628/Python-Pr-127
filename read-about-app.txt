@@ -1,0 +1,10 @@
+
+1) Add a chromedriver to your app before running code .
+
+2 ) Open cmd prompt and write commands to install packages and activate the virtual env and all its scripts .
+
+3) Type your codes .
+
+4 ) Create a csv file for storing scrapped data .
+
+5 ) Run your codes and get scrapped data .
